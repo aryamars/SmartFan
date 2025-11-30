@@ -1,0 +1,49 @@
+# Rancang Bangun SmartFan: Sistem Kontrol Kipas Angin Berbasis IoT
+
+Repository ini berisi *source code* lengkap untuk proyek **SmartFan**, sebuah sistem pengendali kecepatan kipas angin jarak jauh menggunakan ESP32 dan Aplikasi Android (Flutter).
+
+Proyek ini merupakan Tugas Akhir Mata Kuliah **Komputasi Bergerak**.
+
+## 📋 Deskripsi Proyek
+
+Sistem ini menggantikan sakelar fisik konvensional dengan kendali digital berbasis IoT. Pengguna dapat mengatur kecepatan kipas (0%, 25%, 50%, 75%, 100%) dan memantau status perangkat secara *real-time* melalui aplikasi mobile.
+
+## ✨ Fitur Unggulan
+
+1.  **Aplikasi Flutter Mandiri:** Antarmuka modern dengan slider kontrol dan status indikator.
+2.  **WiFi Manager:** Memudahkan konfigurasi SSID dan Password WiFi tanpa perlu *coding* ulang (Mode AP: 192.168.4.1).
+3.  **Protokol MQTT:** Komunikasi data yang cepat dan ringan.
+4.  **Monitoring OLED:** Menampilkan status koneksi WiFi, MQTT, dan kecepatan aktual pada perangkat keras.
+
+## 🔌 Komponen Hardware
+
+* Mikrokontroler ESP32
+* Driver Motor L298N
+* Kipas DC 12V
+* Layar OLED 0.96" (I2C)
+
+## 👥 Anggota Kelompok 4 (PTI - UNESA)
+
+| NIM | Nama |
+| :--- | :--- |
+| 22050974084 | Husna Lathifunisa Arif |
+| 22050974086 | Aryawangi Rahmawanto |
+| 22050974098 | Ryan Prasetyo |
+| 22050974106 | Rafli Dias Romeo |
+| 22050974110 | Edwyn Wahyu Prasetya |
+| 22050974111 | Nadia Alfi Ni'amah |
+| 22050974112 | Afif Amarranda Saragih |
+
+## 🚀 Cara Menjalankan Project
+
+1.  **Firmware (ESP32):**
+    * Buka folder `firmware` menggunakan Arduino IDE.
+    * Install library: `WiFiManager`, `PubSubClient`, `Adafruit_SSD1306`.
+    * Upload ke board ESP32.
+2.  **Aplikasi Mobile (Flutter):**
+    * Buka folder `mobile_app` di VS Code.
+    * Jalankan perintah `flutter pub get`.
+    * Jalankan di emulator atau device fisik dengan `flutter run`.
+
+---
+© 2025 Program Studi Pendidikan Teknologi Informasi, Universitas Negeri Surabaya.
