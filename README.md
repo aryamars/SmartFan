@@ -1,5 +1,7 @@
 # Rancang Bangun SmartFan: Sistem Kontrol Kipas Angin Berbasis IoT
 
+<img width="200" height="200" alt="Black and White T-shirt Printing Business Logo (3) (1)" src="https://github.com/user-attachments/assets/81d4adde-2043-4caf-9562-4fcc9538c54a" />
+
 Repository ini berisi *source code* lengkap untuk proyek **SmartFan**, sebuah sistem pengendali kecepatan kipas angin jarak jauh menggunakan ESP32 dan Aplikasi Android (Flutter).
 
 Proyek ini merupakan Tugas Akhir Mata Kuliah **Komputasi Bergerak**.
