@@ -28,14 +28,6 @@
 * **Mobile App:** Dart (Flutter Framework)
 * **Protocol:** MQTT (HiveMQ Public Broker)
 
-## 📸 Screenshots & Demo
-
-| Hardware Setup | Mobile App UI | OLED Status |
-| :---: | :---: | :---: |
-| ![Hardware](link_to_your_hardware_image.jpg) | ![App UI](link_to_your_app_screenshot.jpg) | ![OLED](link_to_your_oled_image.jpg) |
-
-*(Note: Replace the links above with your actual image paths in the repo)*
-
 ## 👥 Contributors (Group 4)
 
 This project was developed for the **Mobile Computing** course at **Universitas Negeri Surabaya (UNESA)**.
@@ -51,3 +43,4 @@ This project was developed for the **Mobile Computing** course at **Universitas 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
