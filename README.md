@@ -30,6 +30,9 @@ Sistem ini menggantikan sakelar fisik konvensional dengan kendali digital berbas
 * Driver Motor L298N
 * Kipas DC 12V
 * Layar OLED 0.96" (I2C)
+* PowerBank Module
+* Adaptor 12V
+* Kabel Jumper
 
 ## 👥 Anggota Kelompok 4 (PTI22 - UNESA)
 
