@@ -10,6 +10,12 @@ Proyek ini merupakan Tugas Akhir Mata Kuliah **Komputasi Bergerak**.
 
 Sistem ini menggantikan sakelar fisik konvensional dengan kendali digital berbasis IoT. Pengguna dapat mengatur kecepatan kipas (0%, 25%, 50%, 75%, 100%) dan memantau status perangkat secara *real-time* melalui aplikasi mobile.
 
+## 📋 Rangkaian SmartFan
+![Rangkaian SmartFan](https://github.com/user-attachments/assets/5f5d88cb-3f2b-4d37-a490-be91dad6350e)
+
+
+Sistem ini menggantikan sakelar fisik konvensional dengan kendali digital berbasis IoT. Pengguna dapat mengatur kecepatan kipas (0%, 25%, 50%, 75%, 100%) dan memantau status perangkat secara *real-time* melalui aplikasi mobile.
+
 ## ✨ Fitur Unggulan
 
 1.  **Aplikasi Flutter Mandiri:** Antarmuka modern dengan slider kontrol dan status indikator.
@@ -25,7 +31,7 @@ Sistem ini menggantikan sakelar fisik konvensional dengan kendali digital berbas
 * Kipas DC 12V
 * Layar OLED 0.96" (I2C)
 
-## 👥 Anggota Kelompok 4 (PTI - UNESA)
+## 👥 Anggota Kelompok 4 (PTI22 - UNESA)
 
 | NIM | Nama |
 | :--- | :--- |
@@ -36,6 +42,10 @@ Sistem ini menggantikan sakelar fisik konvensional dengan kendali digital berbas
 | 22050974110 | Edwyn Wahyu Prasetya |
 | 22050974111 | Nadia Alfi Ni'amah |
 | 22050974112 | Afif Amarranda Saragih |
+
+## 👥 Dokumentasi Kelompok 4 (PTI22 - UNESA)
+![Foto Kelompok](https://github.com/user-attachments/assets/7278fe1a-c72a-49a6-80da-f9e5ab292463)![Foto Kelompok2](https://github.com/user-attachments/assets/9bcfe57d-74f0-48d2-81a9-f2eaf588e245)
+
 
 ## 🚀 Cara Menjalankan Project
 
