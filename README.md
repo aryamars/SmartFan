@@ -16,6 +16,7 @@ Sistem ini menggantikan sakelar fisik konvensional dengan kendali digital berbas
 2.  **WiFi Manager:** Memudahkan konfigurasi SSID dan Password WiFi tanpa perlu *coding* ulang (Mode AP: 192.168.4.1).
 3.  **Protokol MQTT:** Komunikasi data yang cepat dan ringan.
 4.  **Monitoring OLED:** Menampilkan status koneksi WiFi, MQTT, dan kecepatan aktual pada perangkat keras.
+5.  **PowerBank Module dan Adaptor 12V:** Daya untuk ESP32 dan Kipas Angin.
 
 ## 🔌 Komponen Hardware
 
