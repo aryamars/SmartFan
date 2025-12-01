@@ -6,6 +6,9 @@ Repository ini berisi *source code* lengkap untuk proyek **SmartFan**, sebuah si
 
 Proyek ini merupakan Tugas Akhir Mata Kuliah **Komputasi Bergerak**.
 
+## 📋 Aplikasi SmartFan.apk
+https://drive.google.com/file/d/1Yx_hgytsuA0LQZo7EErjhSfSsooWQzzJ/view?usp=sharing
+
 ## 📋 Deskripsi Proyek
 
 Sistem ini menggantikan sakelar fisik konvensional dengan kendali digital berbasis IoT. Pengguna dapat mengatur kecepatan kipas (0%, 25%, 50%, 75%, 100%) dan memantau status perangkat secara *real-time* melalui aplikasi mobile.
