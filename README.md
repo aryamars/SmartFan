@@ -51,10 +51,10 @@ Sistem ini menggantikan sakelar fisik konvensional dengan kendali digital berbas
 
 1.  **Firmware (ESP32):**
     * Buka folder `firmware` menggunakan Arduino IDE.
-    * Install library: `WiFiManager`, `PubSubClient`, `Adafruit_SSD1306`.
+    * Install library: `WiFiManager`, `PubSubClient`, `Adafruit_SSD1306`,`ESP32`.
     * Upload ke board ESP32.
 2.  **Aplikasi Mobile (Flutter):**
-    * Buka folder `mobile_app` di VS Code.
+    * Buka folder `SmartFan_App` di VS Code.
     * Jalankan perintah `flutter pub get`.
     * Jalankan di emulator atau device fisik dengan `flutter run`.
 
